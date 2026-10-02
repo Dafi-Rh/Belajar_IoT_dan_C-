@@ -27,7 +27,7 @@ Unduh bahan-bahan APK berikut sesuai dengan versi yang telah diuji dan kompatibe
 | Aplikasi | Fungsi | Versi | Link Unduh Resmi |
 | :--- | :--- | :--- | :--- |
 | **Framaroot** | *Exploit Root* 1-Klik untuk MediaTek | `v1.9.3` | [APKMirror Download](https://www.apkmirror.com/apk/alephzain/framaroot/framaroot-1-9-3-release/framaroot-1-9-3-android-apk-download/) |
-| **Link2SD** | Pengelola sistem untuk *Freeze/Debloat* | `v4.3.4` | [APKMirror Download](https://www.apkmirror.com/apk/bulent-akpinar/link2sd/link2sd-4-0-12-release/link2sd-4-0-12-android-apk-download/download/?key=d35d79afa63ef262c33f586ae678ffdd522cc5c9) |
+| **Link2SD** | Pengelola sistem untuk *Freeze/Debloat* | `v4.0.12` | [APKMirror Download](https://www.apkmirror.com/apk/bulent-akpinar/link2sd/link2sd-4-0-12-release/link2sd-4-0-12-android-apk-download/download/?key=d35d79afa63ef262c33f586ae678ffdd522cc5c9) |
 | **IP Webcam** | Engine server CCTV & perekam video | `v1.17.22` | [APKMirror Download](https://www.apkmirror.com/apk/thyoni-tech/ip-webcam/ip-webcam-1-17-22-891-multiarch-release/ip-webcam-1-17-22-891-multiarch-3-android-apk-download/) |
 | **Via Browser** | Browser super ringan untuk akses antarmuka | `v7.0.0` | [APKMirror Download](https://www.apkmirror.com/apk/tu-yafeng/via-browser-fast-light-geek-best-choice/via-browser-fast-light-7-0-0-release/) |
 
