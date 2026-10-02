@@ -17,3 +17,7 @@ Proyek latihan koding dasar C++ untuk mengontrol modul 4 relay menggunakan NodeM
 
 ## Framework
 - VS Code + PlatformIO
+
+## 📂 Daftar Proyek / Daur Ulang Hardware
+* [📷 Advan KitKat CCTV 24/7](./Advan-kitkat-cctv/) - Panduan mengubah tablet Android 4.4/4.2.2 jadul menjadi IP Camera hemat daya.
+* [📱 Oppo A3s CCTV](./cctv-oppo-a3s/) - Konfigurasi dan integrasi perangkat Oppo A3s sebagai kamera pemantau.
